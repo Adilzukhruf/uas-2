@@ -61,4 +61,4 @@ int main() {
 }
 
 ## Output
-![Screenshot (3)](https://user-images.githubusercontent.com/121107393/208697763-b38a1762-e3e3-457f-8f20-c982a99a3b31.png)
+
